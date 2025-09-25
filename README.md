@@ -221,6 +221,18 @@ Without ITAM, lost or unmanaged laptops may bypass security checks, creating vul
 
 # ApexaiQ vs Competitors  
 
+Axonius - Strong in cyber asset visibility and CAASM (many
+integrations).
+Qualys - Best known for vulnerability management and compliance
+scanning.
+Lansweeper - Focuses on IT asset discovery and inventory
+(agentless, simple).
+ServiceNow - Enterprise ITAM/ITSM platform, powerful but costly
+and complex.
+Flexera / Snow / USU / ManageEngine / Ivanti - Leaders in ITAM &
+Software Asset Management (focus on licenses, cost optimization,
+complianc
+
 | Feature              | ApexaiQ (Agentless) | ServiceNow | Qualys | Axonius | Lansweeper |
 |----------------------|--------------------|------------|--------|---------|------------|
 | Agentless            | Yes                | No         | No     | Yes     | Yes        |
